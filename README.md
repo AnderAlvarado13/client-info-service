@@ -1,8 +1,8 @@
 <h2 align="center">
-  Servicio en Java Spring y Maven
+ # Servicio en Java Spring y Maven
 </h2>
 
-# 🛠️ Indicaciones del proyecto 🛠️ 
+<h3> 🛠️ Indicaciones del proyecto 🛠️ </h3>
 ***Versiones***
 >
 - Apache Maven 3.9.7
