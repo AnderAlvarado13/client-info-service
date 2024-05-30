@@ -10,7 +10,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/client")
 public class ClientInfoController {
-
+    @CrossOrigin(origins = "http://localhost:4200")
     @GetMapping("/info")
     public ResponseEntity<Object> getClientInfo(@RequestParam String tipoDocumento, @RequestParam String numeroDocumento) {
         // Validar tipo de documento
